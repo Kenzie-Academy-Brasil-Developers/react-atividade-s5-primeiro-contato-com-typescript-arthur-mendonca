@@ -1,1 +1,1 @@
-# -react-atividade-s5-template-primeiro-contato-com-typescript
+# react-atividade-s5-template-primeiro-contato-com-typescript
